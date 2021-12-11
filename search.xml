@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World!</title>
+      <link href="/2021/12/11/hello-world/"/>
+      <url>/2021/12/11/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1></p><h1 id="中文"><a href="#中文" class="headerlink" title="中文"></a>中文</h1><h2 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h2><h6 id="你好！感谢你来到我的博客这是我的博客"><a href="#你好！感谢你来到我的博客这是我的博客" class="headerlink" title="你好！感谢你来到我的博客这是我的博客"></a>你好！感谢你来到我的博客这是我的博客</h6><p>感谢你来到我的第一篇文章我的第一篇文章<br>请记住我的博客的域名:blog.suduhuolian.top</p><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><h3 id="QQ号：3514332263"><a href="#QQ号：3514332263" class="headerlink" title="QQ号：3514332263"></a>QQ号：3514332263</h3><p>推荐加我QQ号</p><h3 id="微信：QQ3514332263"><a href="#微信：QQ3514332263" class="headerlink" title="微信：QQ3514332263"></a>微信：QQ3514332263</h3><p>不推荐你加我的微信</p><h1 id="English"><a href="#English" class="headerlink" title="English"></a>English</h1><h2 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h2><h6 id="Hello-Thank-you-for-coming-to-my-blog-This-is-my-blog"><a href="#Hello-Thank-you-for-coming-to-my-blog-This-is-my-blog" class="headerlink" title="Hello! Thank you for coming to my blog. This is my blog"></a>Hello! Thank you for coming to my blog. This is my blog</h6><p>Thank you for coming to my first article, my first article<br>Please remember the domain name of my blog: blog.suduhuolian.top</p><h1 id="about"><a href="#about" class="headerlink" title="about"></a>about</h1><h3 id="QQ-No-3514332263"><a href="#QQ-No-3514332263" class="headerlink" title="QQ No.: 3514332263"></a>QQ No.: 3514332263</h3><p>Recommend adding my QQ number</p><h3 id="Wechat-QQ3514332263"><a href="#Wechat-QQ3514332263" class="headerlink" title="Wechat: QQ3514332263"></a>Wechat: QQ3514332263</h3><p>I don’t recommend you to add my wechat</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hello word! </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hello word! </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你好</title>
+      <link href="/2021/10/07/6/"/>
+      <url>/2021/10/07/6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="你好！这是一篇，测试文章！"><a href="#你好！这是一篇，测试文章！" class="headerlink" title="你好！这是一篇，测试文章！"></a>你好！这是一篇，测试文章！</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>源码分享(html,php)</title>
+      <link href="/2021/10/05/ymfx/"/>
+      <url>/2021/10/05/ymfx/</url>
+      
+        <content type="html"><![CDATA[<h1 id="请等待更新"><a href="#请等待更新" class="headerlink" title="请等待更新"></a>请等待更新</h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>终于安装好win11啦</title>
+      <link href="/2021/10/01/win/"/>
+      <url>/2021/10/01/win/</url>
+      
+        <content type="html"><![CDATA[<p>今日我把电脑安装了个Windows11<br>上次安装没成功<br>BUT 这次成功了<br>我还出了了教程有想安装win11的小伙伴们可以看看<br><div class="tag link"><a class="link-card" title="速度博客安装win11教程" href="https://blog.suduhulian.top/2021/09/21/installwindows11/"><div class="left"><img src="http://q.qlogo.cn/headimg_dl?dst_uin=3514332263&spec=100"/></div><div class="right"><p class="text">速度博客安装win11教程</p><p class="url">https://blog.suduhulian.top/2021/09/21/installwindows11/</p></div></a></div></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>termux安装linux</title>
+      <link href="/2021/09/25/termuxanzlinux/"/>
+      <url>/2021/09/25/termuxanzlinux/</url>
+      
+        <content type="html"><![CDATA[<div class="note info flat"><p>本文章作者:速度 <br>QQ:3514332263<br>如本教程有不懂的请联系上面的QQ</p></div><h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><ol><li>安装Termux(安装后给内存权限)</li><li>安装科学上网软件<h1 id="软件下载地址"><a href="#软件下载地址" class="headerlink" title="软件下载地址"></a>软件下载地址</h1></li><li>Termunx<br>链接:<a href="https://f-droid.org/packages/com.termux/">https://f-droid.org/packages/com.termux/</a></li><li>科学上网软件<br>链接:<a href="http://display.ko-produce.com/">http://display.ko-produce.com/</a><h1 id="开始工作"><a href="#开始工作" class="headerlink" title="开始工作"></a>开始工作</h1></li><li>给Termux内存权限</li><li>打开Termux等待一会<h2 id="个个Linux安装命令"><a href="#个个Linux安装命令" class="headerlink" title="个个Linux安装命令"></a>个个Linux安装命令</h2>Ubuntu的命令<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg install wget openssl-tool proot -y &amp;&amp; <span class="built_in">hash</span> -r &amp;&amp; wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Ubuntu/ubuntu.sh &amp;&amp; bash ubuntu.sh</span><br></pre></td></tr></table></figure>Centos的命令<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg install wget openssl-tool proot tar -y &amp;&amp; <span class="built_in">hash</span> -r &amp;&amp; wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/CentOS/centos.sh &amp;&amp; bash centos.sh</span><br></pre></td></tr></table></figure>Debian的命令<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg install wget openssl-tool proot -y &amp;&amp; <span class="built_in">hash</span> -r &amp;&amp; wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Debian/debian.sh &amp;&amp; bash debian.sh</span><br></pre></td></tr></table></figure>Kali的命令<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pkg install wget openssl-tool proot -y &amp;&amp; <span class="built_in">hash</span> -r &amp;&amp; wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh &amp;&amp; bash kali.sh</span><br></pre></td></tr></table></figure><h1 id="开始安装"><a href="#开始安装" class="headerlink" title="开始安装"></a>开始安装</h1></li><li>打开科学上网软件<br>打开后点击“点击连接”</li><li>打开Termux<h2 id="正式安装"><a href="#正式安装" class="headerlink" title="正式安装"></a>正式安装</h2>如果你想安装Centos你就输入上面Centos的命令<br>输入后回车等待<br>这个过程需要半个小时左右<br>弄好之后启动系统<br>命令:<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">./你系统的名称.sh</span><br></pre></td></tr></table></figure><h1 id="安装完成"><a href="#安装完成" class="headerlink" title="安装完成"></a>安装完成</h1><div class="note info flat"><p>这样就安装完成了<br>马上出安装图形化教程<br>感谢你的支持<br>博主QQ：3514332263</p></div></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> 经验分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 经验分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>安装Windows11教程(U盘)</title>
+      <link href="/2021/09/21/installwindows11/"/>
+      <url>/2021/09/21/installwindows11/</url>
+      
+        <content type="html"><![CDATA[<div class="note info simple"><p>本教程由博主:速度自主写的文章<br>如有不会的请在下方评论<br>谢谢你的支持</p></div><div class="note success simple"><p>教程里的镜像不是纯净版的<br>原因是博主太懒不想找<br>大家请见谅哈</p></div><h1 id="步骤列表"><a href="#步骤列表" class="headerlink" title="步骤列表"></a>步骤列表</h1><ol><li>下载镜像 及 软件</li><li>制作启动U盘</li><li>拷贝文件</li><li>开始安装</li><li>安装完成<h1 id="下载镜像-及-软件"><a href="#下载镜像-及-软件" class="headerlink" title="下载镜像 及 软件"></a>下载镜像 及 软件</h1></li><li>首先我们需要下载Windows11镜像<br>下载链接(迅雷):<a href="http://download.agao.pro:89/d0wn/Windows11_x64.iso">http://download.agao.pro:89/d0wn/Windows11_x64.iso</a></li><li>下载大白菜启动U盘制作软件<br>下载链接(迅雷):thunder://QUFodHRwczovL2Rvd24uZGFiYWljYWkuY29tOjk5L0RhQmFpQ2FpX2QxNl92Ni4wXzIwMDkuMjUuemlwWlo=/<br>下载好zip包后进行解压，安装。<h1 id="制作启动U盘-8GB以上的U盘"><a href="#制作启动U盘-8GB以上的U盘" class="headerlink" title="制作启动U盘(8GB以上的U盘)"></a>制作启动U盘(8GB以上的U盘)</h1></li><li>首先我们进入软件<br>进入软件后插入需要制作的U盘<div class="tip ban faa-flash animated"><p>一定是没有重要文件的U盘，毕竟数据无价！！！</p></div>之后在大白菜主页选择默认模式，在”请选择”的地方选择你的U盘，之后点击一键制作成启动盘<br>这里博主推荐U盘使用USB3.0，速度更快<h1 id="拷贝文件"><a href="#拷贝文件" class="headerlink" title="拷贝文件"></a>拷贝文件</h1>打开下载好的镜像文件，将WIN11_64.esd文件放到启动U盘里面(大白菜启动U盘)<br>拷贝好后关闭电脑<h1 id="开始安装"><a href="#开始安装" class="headerlink" title="开始安装"></a>开始安装</h1><div class="tip warning faa-horizontal animated"><p>以下教程最重要，错一步就有可能导致安装失败<br>所以，劝你跟着教程来😃</p></div></li><li>开机选择你的U盘启动<br>启动快捷键如下<br><img src="https://exp-picture.cdn.bcebos.com/836a6aee1c324b1818b10f4553a7263349844831.jpg" alt=""></li><li>我这里是微星主板我按<kbd>F11</kbd></li><li><img src="https://s3.bmp.ovh/imgs/2021/10/ee74b56bd2409db9.jpg" alt=""><br>选择你制作的启动U盘</li><li><img src="https://s3.bmp.ovh/imgs/2021/10/14bc1f5754823fab.jpg" alt=""><br>进入在此处选择大白菜 Windows 10 PE x64<br>选择后等待一会儿</li><li><img src="https://s3.bmp.ovh/imgs/2021/10/8d092b97f6eec2be.jpg" alt=""><br>进入后选择分区工具，之后右键你想安装的磁盘点击删除所有分区<br>弹出的窗口选择“是”<br>之后点击左上角保存更改，点击“是”<br>然后点击左上角第二个磁盘，点击“快速分区”，之后根据自己的喜好来分区<br>分区后退出分区工具<h2 id="正式安装"><a href="#正式安装" class="headerlink" title="正式安装"></a>正式安装</h2></li><li>点击左面上的大白菜一件装机</li><li>打开后会自动识别镜像<br><img src="https://s3.bmp.ovh/imgs/2021/10/951f8e7172bf5efc.jpg" alt=""><br>点击“确定”<br>点完后选择你想安装到的磁盘分区<br>弄好后点击执行<br>弹出对话窗不用管选择“是”，等待安装完成</li><li>安装完成后提示操作完成，点击是<br>重启后拔U盘，进入你把Windows11装到的磁盘<br>进入后让它自己操作就行了<h1 id="安装完成"><a href="#安装完成" class="headerlink" title="安装完成"></a>安装完成</h1>如果有疑问可以在下方评论或者联系博主QQ:3514332263<div class="tip warning"><p>这样就安装好了<br>如果有疑问可以在下方评论或者联系博主QQ:3514332263</p></div><h1 id="这样就完成了Windows11的安装，感谢你观看我的博客"><a href="#这样就完成了Windows11的安装，感谢你观看我的博客" class="headerlink" title="这样就完成了Windows11的安装，感谢你观看我的博客"></a>这样就完成了Windows11的安装，感谢你观看我的博客</h1></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+          <category> win11 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 经验分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实用网站推荐</title>
+      <link href="/2021/09/19/shiyong/"/>
+      <url>/2021/09/19/shiyong/</url>
+      
+        <content type="html"><![CDATA[<p><h1>注意:本文为CSDN博主「qq_42468502」的文章。原文链接：https://blog.csdn.net/qq_42468502/article/details/107836837</h1></p><p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1></p><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>CSDN： <a href="https://www.csdn.net/">https://www.csdn.net/</a><br>TED（最优质的演讲）：<a href="https://www.ted.com/">https://www.ted.com/</a><br>谷粉学术： <a href="https://gfsoso.99lb.net/scholar.html">https://gfsoso.99lb.net/scholar.html</a><br>大学资源网：<a href="http://www.dxzy163.com/">http://www.dxzy163.com/</a><br>简答题：<a href="http://www.jiandati.com/">http://www.jiandati.com/</a><br>网易公开课：<a href="https://open.163.com/ted/">https://open.163.com/ted/</a><br>网易云课堂：<a href="https://study.163.com/">https://study.163.com/</a><br>中国大学MOOC：www.icourse163.org<br>网易云课堂：study.163.com<br>哔哩哔哩弹幕网： www.bilibili.com<br>我要自学网： www.51zxw.net<br>知乎：www.zhihu.com<br>学堂在线：www.xuetangx.com<br>爱课程：www.icourses.cn<br>猫咪论文：<a href="https://lunwen.im/">https://lunwen.im/</a><br>iData（论文搜索）：www.cn-ki.net<br>文泉考试：<a href="https://www.wqkaoshi.com">https://www.wqkaoshi.com</a></p><h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><p>书栈网（极力推荐）： <a href="https://www.bookstack.cn/">https://www.bookstack.cn/</a><br>码农之家（计算机电子书下载）：www.xz577.com<br>鸠摩搜书：www.jiumodiary.com<br>云海电子图书馆：www.pdfbook.cn<br>周读（书籍搜索）：ireadweek.com<br>知轩藏书：<a href="http://www.zxcs.me/">http://www.zxcs.me/</a><br>脚本之家电子书下载：<a href="https://www.jb51.net/books/">https://www.jb51.net/books/</a><br>搜书VIP-电子书搜索：<a href="http://www.soshuvip.com/all.html">http://www.soshuvip.com/all.html</a><br>书格（在线古籍图书馆）：<a href="https://new.shuge.org/">https://new.shuge.org/</a><br>caj云阅读：<a href="http://cajviewer.cnki.net/cajcloud/">http://cajviewer.cnki.net/cajcloud/</a><br>必看网（人生必看的书籍）：<a href="https://www.biikan.com/">https://www.biikan.com/</a></p><h1 id="冷知识-黑科技"><a href="#冷知识-黑科技" class="headerlink" title="冷知识 / 黑科技"></a>冷知识 / 黑科技</h1><p>上班摸鱼必备（假装电脑系统升级）： <a href="http://fakeupdate.net/">http://fakeupdate.net/</a><br>PIECES 拼图（30 个 CSS 碎片进行拼图，呈现 30 种濒临灭绝的动物）： <a href="http://www.species-in-pieces.com/">http://www.species-in-pieces.com/</a><br>图片立体像素画： <a href="https://pissang.github.io/voxelize-image/">https://pissang.github.io/voxelize-image/</a><br>福利单词（一个不太正经的背单词网站）： <a href="http://dict.ftqq.com">http://dict.ftqq.com</a><br>查无此人（刷新网站，展现一张AI 生成的人脸照片）：<a href="https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a><br>在线制作地图图例：<a href="https://mapchart.net/">https://mapchart.net/</a><br>创意光线绘画：<a href="http://weavesilk.com/">http://weavesilk.com/</a><br>星系观察： <a href="https://stellarium-web.org/">https://stellarium-web.org/</a><br>煎蛋：<a href="http://jandan.net/">http://jandan.net/</a><br>渣男-说话的艺术：<a href="https://lovelive.tools/">https://lovelive.tools/</a><br>全历史：<a href="https://www.allhistory.com/">https://www.allhistory.com/</a><br>iData：<a href="https://www.cn-ki.net/">https://www.cn-ki.net/</a><br>术语在线：<a href="http://www.termonline.cn/">http://www.termonline.cn/</a></p><h1 id="写代码"><a href="#写代码" class="headerlink" title="写代码"></a>写代码</h1><p>GitHub：<a href="https://github.com/">https://github.com/</a><br>码云：<a href="https://gitee.com/">https://gitee.com/</a><br>源码之家：<a href="https://www.mycodes.net/">https://www.mycodes.net/</a><br>JSON to Dart： <a href="https://javiercbk.github.io/json_to_dart/">https://javiercbk.github.io/json_to_dart/</a><br>Json在线解析验证： <a href="https://www.json.cn/">https://www.json.cn/</a><br>在线接口测试（Getman）：<a href="https://getman.cn/">https://getman.cn/</a></p><h1 id="搜资源"><a href="#搜资源" class="headerlink" title="搜资源"></a>搜资源</h1><p>DogeDoge搜索引擎：www.dogedoge.com<br>秘迹搜索：<a href="https://mijisou.com/">https://mijisou.com/</a><br>小白盘：<a href="https://www.xiaobaipan.com/">https://www.xiaobaipan.com/</a><br>云盘精灵（资源搜索）：www.yunpanjingling.com<br>虫部落（资源搜索）：www.chongbuluo.com<br>如风搜（资源搜索）：<a href="http://www.rufengso.net/">http://www.rufengso.net/</a><br>爱扒：<a href="https://www.zyboe.com/">https://www.zyboe.com/</a></p><h1 id="小工具"><a href="#小工具" class="headerlink" title="小工具"></a>小工具</h1><p>奶牛快传（在线传输文件利器）： cowtransfer.com<br>文叔叔（大文件传输，不限速）：<a href="https://www.wenshushu.cn/">https://www.wenshushu.cn/</a><br>云端超级应用空间（PS，PPT，Excel，Ai）：<a href="https://uzer.me/">https://uzer.me/</a><br>香当网（年终总结，个人简历，事迹材料，租赁合同，演讲稿）：<a href="https://www.xiangdang.net/">https://www.xiangdang.net/</a><br>二维码生成：<a href="https://cli.im/">https://cli.im/</a><br>搜狗翻译：fanyi.sogou.com<br>熵数（图表制作，数据可视化）：<a href="https://dydata.io/appv2/#/pages/index/home">https://dydata.io/appv2/#/pages/index/home</a><br>拷贝兔：<a href="https://cp.anyknew.com/">https://cp.anyknew.com/</a><br>图片无限变放大：<a href="http://bigjpg.com/zh">http://bigjpg.com/zh</a><br>幕布（在线大纲笔记工具）：mubu.com<br>在线转换器（在线转换器转换任何测量单位）：<a href="https://zh.justcnw.com/">https://zh.justcnw.com/</a><br>调查问卷制作：<a href="https://www.wenjuan.com/">https://www.wenjuan.com/</a><br>果核剥壳（软件下载）：<a href="https://www.ghpym.com/">https://www.ghpym.com/</a><br>软件下载：<a href="https://www.unyoo.com/">https://www.unyoo.com/</a><br>MSDN我告诉你（windows10系统镜像下载）：<a href="https://msdn.itellyou.cn/">https://msdn.itellyou.cn/</a></p><h1 id="导航页"><a href="#导航页" class="headerlink" title="导航页"></a>导航页</h1><p>世界各国网址大全： <a href="http://www.world68.com/">http://www.world68.com/</a><br>小森林导航：<a href="http://www.xsldh6.com/">http://www.xsldh6.com/</a><br>简捷工具：<a href="http://www.shulijp.com/">http://www.shulijp.com/</a><br>NiceTool.net 好工具网：<a href="http://www.nicetool.net/">http://www.nicetool.net/</a><br>现实君工具箱（综合型在线工具集成网站）：<a href="http://tool.uixsj.cn/">http://tool.uixsj.cn/</a><br>蓝调网站：<a href="http://lcoc.top/">http://lcoc.top/</a><br>偷渡鱼：<a href="https://touduyu.com/">https://touduyu.com/</a><br>牛导航：<a href="http://www.ziliao6.com/">http://www.ziliao6.com/</a><br>小呆导航：<a href="https://www.webjike.com/index.html">https://www.webjike.com/index.html</a><br>简法主页：<a href="http://www.jianfast.com/">http://www.jianfast.com/</a><br>KIM主页：<a href="https://kim.plopco.com/">https://kim.plopco.com/</a><br>聚BT：<a href="https://jubt.net/cn/index.html">https://jubt.net/cn/index.html</a><br>精准云工具合集：<a href="https://jingzhunyun.com/">https://jingzhunyun.com/</a><br>兔2工具合集：<a href="https://www.tool2.cn/">https://www.tool2.cn/</a><br>爱资料工具（在线实用工具集合）：www.toolnb.com<br>工具导航：<a href="https://hao.logosc.cn/">https://hao.logosc.cn/</a></p><h1 id="看视频"><a href="#看视频" class="headerlink" title="看视频"></a>看视频</h1><p>阿木影视： <a href="https://www.aosk.online/">https://www.aosk.online/</a><br>电影推荐（分类别致）：<a href="http://www.mvcat.com">http://www.mvcat.com</a><br>APP影院：<a href="https://app.movie/">https://app.movie/</a><br>去看TV：<a href="https://www.qukantv.net/">https://www.qukantv.net/</a><br>动漫视频网：<a href="http://www.zzzfun.com/">http://www.zzzfun.com/</a><br>94神马电影网：<a href="http://www.9rmb.com/">http://www.9rmb.com/</a><br>NO视频官网：<a href="http://www.novipnoad.com/">http://www.novipnoad.com/</a><br>蓝光画质电影：<a href="http://www.languang.co/">http://www.languang.co/</a><br>在线看剧：<a href="http://dy.27234.cn/">http://dy.27234.cn/</a><br>大数据导航：<a href="http://hao.199it.com/">http://hao.199it.com/</a><br>多功能图片网站：<a href="https://www.logosc.cn/so/">https://www.logosc.cn/so/</a><br>牛牛TV：<a href="http://www.ziliao6.com/tv/">http://www.ziliao6.com/tv/</a><br>VideoFk解析视频：<a href="http://www.videofk.com/">http://www.videofk.com/</a><br>蓝调网站：<a href="http://lcoc.top/vip2.3/">http://lcoc.top/vip2.3/</a><br>永久资源采集网：<a href="http://www.yongjiuzy1.com/">http://www.yongjiuzy1.com/</a></p><h1 id="学设计"><a href="#学设计" class="headerlink" title="学设计"></a>学设计</h1><p>码力全开（产品/设计师/独立开发者的资源库）： <a href="https://www.maliquankai.com/designnav/">https://www.maliquankai.com/designnav/</a><br>免费音频素材：<a href="https://icons8.cn/music">https://icons8.cn/music</a><br>新CG儿（视频素材模板，无水印+免费下载）：<a href="https://www.newcger.com/">https://www.newcger.com/</a><br>Iconfont（阿里巴巴矢量图标库）： <a href="https://www.iconfont.cn/">https://www.iconfont.cn/</a><br>小图标下载：<a href="https://www.easyicon.net/">https://www.easyicon.net/</a><br>Flight Icon：<a href="https://www.flighticon.co/">https://www.flighticon.co/</a><br>第一字体转换器：<a href="http://www.diyiziti.com/">http://www.diyiziti.com/</a><br>doyoudosh（平面设计）：www.doyoudo.com<br>企业宣传视频在线制作：<a href="https://duomu.tv/">https://duomu.tv/</a><br>MAKE海报设计官网：<a href="http://maka.im/">http://maka.im/</a><br>一键海报神器：<a href="https://www.logosc.cn/photo/?utm_source=hao.logosc.cn&amp;utm_medium=referral">https://www.logosc.cn/photo/?utm_source=hao.logosc.cn&amp;utm_medium=referral</a><br>字由（字体设计）：<a href="http://www.hellofont.cn/">http://www.hellofont.cn/</a><br>查字体网站：<a href="https://fonts.safe.360.cn/">https://fonts.safe.360.cn/</a><br>爱给网（免费素材下载的网站，包括音效、配乐，3D、视频、游戏，平面、教程）： <a href="http://www.aigei.com/">http://www.aigei.com/</a><br>在线视频剪辑：<a href="https://bilibili.clipchamp.com/editor">https://bilibili.clipchamp.com/editor</a></p><h1 id="搞文档"><a href="#搞文档" class="headerlink" title="搞文档"></a>搞文档</h1><p>即书（在线制作PPT）：<a href="https://www.keysuper.com/">https://www.keysuper.com/</a><br>PDF处理：<a href="https://smallpdf.com/cn">https://smallpdf.com/cn</a><br>PDF处理：<a href="https://www.ilovepdf.com/zh-cn">https://www.ilovepdf.com/zh-cn</a><br>PDF处理： <a href="https://www.pdfpai.com/">https://www.pdfpai.com/</a><br>PDF处理：<a href="https://www.hipdf.cn/">https://www.hipdf.cn/</a><br>图片压缩，PDF处理：<a href="https://docsmall.com/">https://docsmall.com/</a><br>腾讯文档（在线协作编辑和管理文档）：docs.qq.com<br>ProcessOn（在线协作制作结构图）：www.processon.com<br>iLovePDF（在线转换PDF利器）：www.ilovepdf.com<br>PPT在线制作：<a href="https://www.woodo.cn/">https://www.woodo.cn/</a><br>PDF24工具（pdf处理工具）：<a href="https://tools.pdf24.org/en">https://tools.pdf24.org/en</a><br>IMGBOT（在线图片处理）：www.imgbot.ai<br>福昕云编辑（在线编辑PDF）：edit.foxitcloud.cn<br>TinyPNG（在线压缩图片）：tinypng.com<br>UZER.ME（在线使用各种大应用，在线使用CAD，MATLAB，Office三件套<br>）：uzer.me<br>优品PPT（模板下载）： <a href="http://www.ypppt.com/">http://www.ypppt.com/</a><br>第一PPT（模板下载）：<a href="http://www.1ppt.com/xiazai/">http://www.1ppt.com/xiazai/</a><br>三顿PPT导航：sandunppt.com<br>Excel函数表： <a href="https://support.office.com/zh-cn/article/excel-%E5%87%BD%E6%95%B0%EF%BC%88%E6%8C%89%E5%AD%97%E6%AF%8D%E9%A1%BA%E5%BA%8F%EF%BC%89-b3944572-255d-4efb-bb96-c6d90033e188">https://support.office.com/zh-cn/article/excel-%E5%87%BD%E6%95%B0%EF%BC%88%E6%8C%89%E5%AD%97%E6%AF%8D%E9%A1%BA%E5%BA%8F%EF%BC%89-b3944572-255d-4efb-bb96-c6d90033e188</a></p><h1 id="找图片"><a href="#找图片" class="headerlink" title="找图片"></a>找图片</h1><p>电脑壁纸：<a href="http://lcoc.top/bizhi/">http://lcoc.top/bizhi/</a><br><a href="https://unsplash.com/">https://unsplash.com/</a><br><a href="https://pixabay.com/">https://pixabay.com/</a><br><a href="https://www.pexels.com/">https://www.pexels.com/</a><br><a href="https://visualhunt.com/">https://visualhunt.com/</a><br><a href="https://www.ssyer.com/">https://www.ssyer.com/</a><br>彼岸图网：<a href="http://pic.netbian.com/">http://pic.netbian.com/</a><br>极像素（超高清大图）：<a href="https://www.sigoo.com/">https://www.sigoo.com/</a><br>免费版权图片搜索：<a href="https://www.logosc.cn/so/">https://www.logosc.cn/so/</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>5.7QQ超级会员一个月</title>
+      <link href="/2021/09/18/5-7chaohui/"/>
+      <url>/2021/09/18/5-7chaohui/</url>
+      
+        <content type="html"><![CDATA[<p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1><br><div class="tip success"><p>官方直充</p></div></p><h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><p>首先你需要有微信<br><a href="https://pay.qq.com/h5/index.shtml?m=buy&amp;as=1&amp;n=1&amp;cmn=1&amp;continousmonth=1&amp;continuous_month_type=&amp;sdkpay=1&amp;c=&amp;aid=mvip.pingtai.vipsite.svip&amp;productid=&amp;groupid=MD210603215021450&amp;mpid=&amp;service_name=%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98&amp;service=BASES&amp;appid=1450022370&amp;client=wechat&amp;u=你的QQ号">https://pay.qq.com/h5/index.shtml?m=buy&amp;as=1&amp;n=1&amp;cmn=1&amp;continousmonth=1&amp;continuous_month_type=&amp;sdkpay=1&amp;c=&amp;aid=mvip.pingtai.vipsite.svip&amp;productid=&amp;groupid=MD210603215021450&amp;mpid=&amp;service_name=%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98&amp;service=BASES&amp;appid=1450022370&amp;client=wechat&amp;u=你的QQ号</a><br>记住以上链接，发送到QQ聊天内。</p><h1 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h1><p>你发送的链接末尾“你的QQ号”需要填写你的QQ号<br>点开链接自动跳转到微信，之后按步骤开通<br>开通后不要忘记把自动续费关闭掉</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>这就是5.7一个月的教程了<br>有需要的小伙伴可以来试一试<br>这个教程好像无法多次购买</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 低价 </category>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>5.7QQ超级会员一个月</title>
+      <link href="/2021/09/18/ff/"/>
+      <url>/2021/09/18/ff/</url>
+      
+        <content type="html"><![CDATA[<p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1><br><div class="tip success"><p>官方直充</p></div></p><h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><p>首先你需要有微信<br><a href="https://pay.qq.com/h5/index.shtml?m=buy&amp;as=1&amp;n=1&amp;cmn=1&amp;continousmonth=1&amp;continuous_month_type=&amp;sdkpay=1&amp;c=&amp;aid=mvip.pingtai.vipsite.svip&amp;productid=&amp;groupid=MD210603215021450&amp;mpid=&amp;service_name=%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98&amp;service=BASES&amp;appid=1450022370&amp;client=wechat&amp;u=你的QQ号">https://pay.qq.com/h5/index.shtml?m=buy&amp;as=1&amp;n=1&amp;cmn=1&amp;continousmonth=1&amp;continuous_month_type=&amp;sdkpay=1&amp;c=&amp;aid=mvip.pingtai.vipsite.svip&amp;productid=&amp;groupid=MD210603215021450&amp;mpid=&amp;service_name=%E8%B6%85%E7%BA%A7%E4%BC%9A%E5%91%98&amp;service=BASES&amp;appid=1450022370&amp;client=wechat&amp;u=你的QQ号</a><br>记住以上链接，发送到QQ聊天内。</p><h1 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h1><p>你发送的链接末尾“你的QQ号”需要填写你的QQ号<br>点开链接自动跳转到微信，之后按步骤开通<br>开通后不要忘记把自动续费关闭掉</p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>这就是5.7一个月的教程了<br>有需要的小伙伴可以来试一试<br>这个教程好像无法多次购买</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 低价 </category>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>白嫖二级域名</title>
+      <link href="/2021/09/12/baipiaoerji/"/>
+      <url>/2021/09/12/baipiaoerji/</url>
+      
+        <content type="html"><![CDATA[<p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1><br><div class="tip warning faa-horizontal animated"><p>warning</p></div></p><h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><ol><li>网址: yun.i8mc.cn</li><li>电子邮箱(建议QQ邮箱)</li><li>一个QQ号(想必大家都有)<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1></li><li>去yun.i8mc.cn根据提示注册一个账号，注册好后，点击如图所示<br><img src="https://s3.bmp.ovh/imgs/2021/09/14cd2380bcbadd69.png" alt=""><br>点击购买服务</li><li>依次点击如图所示<br><img src="https://s3.bmp.ovh/imgs/2021/09/6caff15ccec108e4.png" alt=""><br>再次点击如图所示<br><img src="https://s3.bmp.ovh/imgs/2021/09/4ed88532767d16d9.png" alt=""></li><li>之后选择你想要的域名<br><img src="https://s3.bmp.ovh/imgs/2021/09/27437fa55bcd67b5.png" alt=""></li><li>之后够买如图<br><img src="https://s3.bmp.ovh/imgs/2021/09/75fcf90cb7171c09.png" alt=""><br>之后购买</li><li>之后点击右上角的控制台</li><li>点击你购买的域名<br><img src="https://s3.bmp.ovh/imgs/2021/09/ac6c5f17216a99b7.png" alt=""></li><li>修改记录教程<br><img src="https://s3.bmp.ovh/imgs/2021/09/6b066433877f30bc.png" alt=""><h1 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h1>如果这篇文章对你来说有用的话，<psw>请转发</psw><h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1>如本站图片出现加载不出来请和QQ3514332263联系</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 白嫖 </category>
+          
+          <category> 分享 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+            <tag> 白嫖 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>安装win11的那些事</title>
+      <link href="/2021/09/12/installwin11/"/>
+      <url>/2021/09/12/installwin11/</url>
+      
+        <content type="html"><![CDATA[<p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1></p><h1 id="正片"><a href="#正片" class="headerlink" title="正片"></a>正片</h1><p>就在今天，我不知道我怎么想给实体机安装个Windows11，之后我在某些网站下载了Windows11镜像文件，之后弄了一个PE U盘，我进去PE以后我按照正常步骤安装好了，我重启电脑后，我等了一会，他进去了一个请稍等的界面，我等了半个小时还没好，就在快要放弃的时候它好，之后我一看，卧槽？怎么有用户？？新系统有用户，还有密码，当时我以为是我卡了，之后我重启了，之后又到了请稍等的界面，之后直接把我搞懵了，之后本来想去电脑店维修，之后我也不知道在哪找到了个U盘，里面正好有win10安装的东西，之后我把电脑又装回了Windows10，所以说，没事别乱搞电脑，幸好备份文件了(学习资料还在，没事)，下次可不乱搞了！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常 </category>
+          
+          <category> 日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分享 </tag>
+            
+            <tag> 日常 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>在hexo使用aplayer-Using aplayer in hexo</title>
+      <link href="/2021/08/30/hexoap/"/>
+      <url>/2021/08/30/hexoap/</url>
+      
+        <content type="html"><![CDATA[<p><h1>因为喜欢，所以热爱，因为热爱，所以坚持。</h1></p><h1 id="在hexo使用aplayer-中文"><a href="#在hexo使用aplayer-中文" class="headerlink" title="在hexo使用aplayer(中文)"></a>在hexo使用aplayer(中文)</h1><h1 id="开始操作"><a href="#开始操作" class="headerlink" title="开始操作"></a>开始操作</h1><h3 id="此教程使用butterfly主题为例"><a href="#此教程使用butterfly主题为例" class="headerlink" title="此教程使用butterfly主题为例"></a>此教程使用butterfly主题为例</h3><ol><li>首先在主题配置文件中找到inject-head这里添加下方代码<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="string">&lt;link</span> <span class="string">rel=&quot;stylesheet&quot;</span> <span class="string">href=&quot;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&quot;</span>  <span class="string">media=&quot;defer&quot;</span> <span class="string">onload=&quot;this.media=&#x27;all&#x27;&quot;&gt;</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">&lt;meting-js</span> <span class="string">server=&#x27;netease&#x27;</span> <span class="string">type=&#x27;playlist&#x27;</span> <span class="string">id=&#x27;网易云音乐歌单的ID&#x27;</span> <span class="string">fixed=&#x27;true&#x27;&gt;&lt;/meting-js&gt;</span></span><br></pre></td></tr></table></figure>注意缩进！！！！</li><li>其次在主题配置文件中找到inject-bottom这里添加下方代码<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="bullet">-</span> <span class="string">&lt;script</span> <span class="string">async</span> <span class="string">src=&quot;https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js&quot;&gt;&lt;/script&gt;</span></span><br><span class="line"><span class="bullet">-</span> <span class="string">&lt;script</span> <span class="string">async</span> <span class="string">src=&quot;https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js&quot;&gt;&lt;/script&gt;</span></span><br></pre></td></tr></table></figure>注意缩进！！！！</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+          <category> Butterfly </category>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> Butterfly </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

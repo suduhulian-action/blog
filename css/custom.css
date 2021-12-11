@@ -1,0 +1,348 @@
+/* 横向排布子菜单 */
+#nav .menus_items .menus_item .menus_item_child li {
+  display: inline-block;
+}
+/* 古诗词卡片 */
+#card-poem{
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem!important;
+  min-height: 130px;
+}
+
+div#poem_sentence{
+  text-align: center;
+  font-family: serif,cursive;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+  padding: 1rem;
+  border-radius: 12px;
+  background: var(--heo-secondbg);
+  min-height: 62px;
+}
+
+div#poem_info{
+  display: flex;
+  color: var(--heo-secondtext);
+  font-size: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+div#poem_author{
+  order: 1;
+  padding: 2px;
+  margin-left: 8px;
+}
+
+div#poem_dynasty{
+  order: 0;
+  padding: 2px 4px 2px 6px;
+  background: var(--heo-card-btn-bg);
+  color: var(--heo-fontcolor);
+  border-radius: 8px;
+}
+
+:root{
+  --heo-white: #fff;
+  --heo-black: #000;
+  --heo-none: rgba(0,0,0,0);
+  --heo-gray: #999999;
+  --heo-yellow: #ffc93e;
+  --heo-main: #007AFF;
+  --heo-shadow-main: 0 8px 12px -3px rgba(40, 109, 234,.20);
+  --heo-shadow-blue: 0 8px 12px -3px rgba(40, 109, 234,.20);
+  --heo-shadow-white: 0 8px 12px -3px rgba(255, 255, 255,.20);
+  --heo-shadow-black: 0 0 12px 4px rgba(0, 0, 0,.05);
+  --heo-shadow-yellow: 0px 38px 77px -26px rgba(255, 201, 62,.12);
+  --heo-shadow-red: 0 8px 12px -3px #ee7d7936;
+  --heo-shadow-green: 0 8px 12px -3px #87ee7936;
+  --heo-logo-color: linear-gradient(215deg,#4584ff 30%,#ff7676 70%);
+  --style-border: 1px solid var(--heo-card-border);
+}
+
+::selection {
+  background: var(--heo-blue);
+  color: var(--heo-white);
+}
+
+[data-theme=light] {
+  --heo-theme: #425AEF;
+  --heo-blue: #425AEF;
+  --heo-red: #D8213C;
+  --heo-pink: #FF7C7C;
+  --heo-green: #008200;
+  --heo-fontcolor: #363636;
+  --heo-background: #f7f9fe;
+  --heo-reverse: #000;
+  --heo-maskbg: rgba(255, 255, 255, 0.6);
+  --heo-hovertext: #5374ff;
+  --heo-ahoverbg: #F7F7FA;
+  --heo-lighttext: var(--heo-main);
+  --heo-secondtext: rgba(60, 60, 67, 0.6);
+  --heo-scrollbar: rgba(60, 60, 67, 0.4);
+  --heo-card-btn-bg: #edf0f7;
+  --heo-post-blockquote-bg: #fafcff;
+  --heo-post-tabs-bg: #f2f5f8;
+  --heo-secondbg: #edf0f7;
+  --heo-shadow-nav:0 5px 12px -5px rgba(102, 68, 68, 0.05);
+  --heo-card-bg: #fff;
+  --heo-shadow-lightblack:0 5px 12px -5px rgba(102, 68, 68, 0.00);
+  --heo-shadow-light2black:0 5px 12px -5px rgba(102, 68, 68, 0.00);
+  --heo-card-border: #e3e8f7;
+}
+
+[data-theme=dark] {
+  --heo-theme: #0084FF;
+  --heo-blue: #0084FF;
+  --heo-red: #FF3842;
+  --heo-pink: #FF7C7C;
+  --heo-green: #00FF00;
+  --heo-fontcolor: #F7F7FA;
+  --heo-background: #18171d;
+  --heo-reverse: #fff;
+  --heo-maskbg: rgba(0,0,0, 0.6);
+  --heo-hovertext: #0A84FF;
+  --heo-ahoverbg: #fff;
+  --heo-lighttext: #f2b94b;
+  --heo-secondtext: #a1a2b8;
+  --heo-scrollbar: rgba(200, 200, 223, 0.4);
+  --heo-card-btn-bg: #30343f;
+  --heo-post-blockquote-bg: #000;
+  --heo-post-tabs-bg: #121212;
+  --heo-secondbg: #30343f;
+  --heo-shadow-nav:0 5px 20px 0px rgba(28, 28, 28, 0.4);
+  --heo-card-bg: #1d1b26;
+  --heo-shadow-lightblack:0 5px 12px -5px rgba(102, 68, 68, 0.0);
+  --heo-shadow-light2black:0 5px 12px -5px rgba(102, 68, 68, 0.0);
+  --heo-card-border: #42444a;
+}
+
+/* 修改图片圆角 */
+img[src*="#img-radius"] {
+    border-radius: 9px;
+}
+/* 侧边栏圆角 */
+#aside-content .card-widget {
+border-radius: 25px;
+}
+/* 文章页圆角 */
+.layout>div:first-child:not(.recent-posts) {
+border-radius: 25px;
+}
+/* 双栏卡片圆角 */
+#recent-posts>.recent-post-item {
+border-radius: 25px;
+}
+/* github按钮圆角 */
+#card-info-btn{
+  border-radius: 25px;
+  overflow: hidden}
+#card-info-btn:before{
+  border-radius: 25px
+}
+/* 右侧小按钮圆角 */
+#rightside>div>button,#to_comment {
+  margin-right: 4px;
+  border-radius: 5px;
+}
+/* 翻页圆角 */
+#pagination a.extend,
+#pagination .page-number,
+#pagination span {
+	color: var(--font-color);
+	background-color: var(--card-bg);
+	border-radius: 8px;
+	height: 1.6rem;
+	text-align: center;
+	line-height: 1.6rem;
+	display: inline-block;
+	min-width: 1.6rem;
+}
+/* 目录圆角 */
+#aside-content #card-toc .toc-content .toc-link.active {
+    border-radius: 8px;
+}
+
+/* 横向排布子菜单 */
+#nav .menus_items .menus_item .menus_item_child li {
+  display: inline-block;
+}
+/* 圆角隐藏 */
+ul.menus_item_child {
+  overflow: hidden;
+  border-radius: 5px;
+}
+/* 调整空隙，确保不会天下武功唯快不破 */
+#nav .menus_items .menus_item .menus_item_child {
+  margin-top: 0px !important;
+}
+
+/* 导航栏置顶透明覆盖 */
+#page-header.not-top-img #nav {
+    background: rgba(255,255,255,0);
+    -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,0);
+    box-shadow: 0 5px 6px -5px rgba(133,133,133,0)
+}
+/* 导航栏非置顶透明覆盖 */
+#page-header.nav-fixed #nav {
+ background: rgba(255,255,255,.8);
+    -webkit-box-shadow: 0 5px 6px -5px rgba(133,133,133,.6);
+    box-shadow: 0 5px 6px -5px rgba(133,133,133,.6);
+}
+/* 导航栏居中 */
+#navFn{
+flex: 1;
+text-align: right;
+}
+#nav
+  #search-button{
+    display: inline;
+    padding: 0 0 0 0.3rem ;
+    position: relative;
+    padding-bottom: 0.3rem;
+    text-shadow: 0.05rem 0.05rem 0.1rem rgb(0 0 0 / 30%);
+    cursor: pointer;
+}
+
+/* 滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(73, 177, 245, 0.2);
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #49b1f5 !important;
+  background-image: -webkit-linear-gradient(
+	45deg,
+	rgba(255, 255, 255, 0.4) 25%,
+	transparent 25%,
+	transparent 50%,
+	rgba(255, 255, 255, 0.4) 50%,
+	rgba(255, 255, 255, 0.4) 75%,
+	transparent 75%,
+	transparent
+  ) !important;
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: #49b1f5;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background-color: #1f1f1f !important;
+}
+
+svg.icon {
+  /* 这里定义svg.icon，避免和Butterfly自带的note标签冲突 */
+   width: 1em; height: 1em;
+   /* width和height定义图标的默认宽度和高度*/
+   vertical-align: -0.15em;
+   fill: currentColor;
+   overflow: hidden;
+}
+
+.btn {
+  background-color: #ff9624;
+  color: #fff;
+  font-size: 1rem;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 0;
+  padding: 0.5rem 2.15rem;
+  border: 2px solid #ff9624;
+  border-radius: 100px;
+  transition: all 400ms ease-in-out;
+  box-shadow: 0 10px 20px 0 rgba(90, 70, 176, 0.3);
+}
+
+.btn:hover {
+  box-shadow: none;
+}
+
+.btn-white {
+  color: #333;
+  background-color: #fff !important;
+  border-color: #fff !important;
+  font-size: 1rem;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 0;
+  padding: 0.785rem 2.15rem;
+  border-radius: 100px;
+  transition: all 400ms ease-in-out;
+}
+
+.btn-white:hover {
+  color: #fff !important;
+  background-color: #6e45e2 !important;
+  border-color: #6e45e2 !important;
+}
+
+@media screen and (min-width: 900px)
+#nav #blog_name {
+  flex-wrap: nowrap;
+  height: 60px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  margin-left: .5rem;
+  z-index: 102;
+}
+
+#blog_name {
+  display: flex;
+  z-index: 100;
+  transition: .3s;
+}
+
+#nav {
+  position: absolute;
+  top: 0px;
+  z-index: 90;
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 0px 36px;
+  width: 100%;
+  height: 60px;
+  font-size: 1.3em;
+  opacity: 0;
+  transition: all 0.5s ease 0s;
+}
+
+/*html {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+}*/
+
+#nz {
+  font-size: 20px;
+  margin: 0;
+  background: -webkit-linear-gradient(left, #ffffff, #ff0000 6.25%, #ff7d00 12.5%, #ffff00 18.75%, #00ff00 25%, #00ffff 31.25%, #0000ff 37.5%, #ff00ff 43.75%, #ffff00 50%, #ff0000 56.25%, #ff7d00 62.5%, #ffff00 68.75%, #00ff00 75%, #00ffff 81.25%, #0000ff 87.5%, #ff00ff 93.75%, #ffff00 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  animation: masked-animation 2s infinite linear;
+
+/* 页脚透明 */
+
+#footer {
+  background: transparent !important;
+}
